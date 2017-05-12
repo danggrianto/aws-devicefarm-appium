@@ -17,7 +17,3 @@ target/
 
 # local
 /src/main/resources/local.properties
-
-# apps
-*.apk
-*.ipa
